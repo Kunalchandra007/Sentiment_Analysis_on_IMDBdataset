@@ -23,6 +23,7 @@ Gradio for UI Integration 🎭
 📂 Dataset
 
 The dataset used for this project is the IMDB Large Movie Review Dataset, which contains 50,000 labeled movie reviews (25,000 for training and 25,000 for testing).
+datasetlink-https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 🔧 Project Workflow
 
